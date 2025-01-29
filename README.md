@@ -94,3 +94,6 @@ Open your browser and navigate to **[http://localhost:3000](http://localhost:300
 ## License
 
 This project is licensed under the **MIT License**.
+
+# movie-app
+Movie searching app with trending movies and database(appwrite)
